@@ -6,7 +6,7 @@ Soy Raimundo Sánchez, ingeniero de sistemas complejos y corredor de ultra-trail
 - 🌱 También estoy aprendiendo a diseñar visualizaciones atractivas a partir de datos, también conocido como arte generativo #generativeArt.
 - 👯 Principalmente programo en R usando RStudio. También tengo algo de experiencia en C#, Matlab, Python, Stata, Visual Basic y Javascript, pero R es mi herramienta favorita.
 
-Mi proyecto para analizar flujos de datos de dispositivos GPS: [GPStream](https://github.com/raimun2/ESStream)
+Mi proyecto para analizar flujos de datos de dispositivos GPS: [GPStream](https://github.com/raimun2/GPStream)
 
 ![](https://github.com/raimun2/generativeArt/raw/main/1.ridges_streams/montanas1.png)
 
