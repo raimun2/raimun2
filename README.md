@@ -1,12 +1,12 @@
 ### Hola a todos 👋
 
-Soy Raimundo Sánchez, ingeniero de sistemas complejos y corredor de ultra-trail. Doy clases de ingeniería de datos en la Universidad Adolfo Ibáñez (Santiago de Chile) donde también hago mi investigación sobre el uso de dispositivos digitales para estudiar la actividad física.
+I am Raimundo Sánchez, a complex systems engineer and an ultra-trail runner. I teach data engineering classes at the Adolfo Ibáñez University (Santiago de Chile) where I also do my research on the use of digital devices to study physical activity.
 
-- 🔭 Actualmente estoy trabajando en el análisis de actividades de trail running, esta tarea se divide en la recopilación de datos, el modelado de parámetros de carrera y la predicción de rendimiento.
-- 🌱 También estoy aprendiendo a diseñar visualizaciones atractivas a partir de datos, también conocido como arte generativo #generativeArt.
-- 👯 Principalmente programo en R usando RStudio. También tengo algo de experiencia en C#, Matlab, Python, Stata, Visual Basic y Javascript, pero R es mi herramienta favorita.
+- 🔭 I am currently working on the analysis of trail running activities, this task is divided into data collection, modeling of running parameters and performance prediction.
+- 🌱 I'm also learning how to design engaging visualizations from data, aka generative art #generativeArt.
+- 👯 I mainly program in R using RStudio. I also have some experience in C#, Matlab, Python, Stata, Visual Basic, and Javascript, but R is my favorite tool.
 
-Mi proyecto para analizar flujos de datos de dispositivos GPS: [GPStream](https://github.com/raimun2/GPStream)
+My project to analyze data streams from GPS devices: [GPStream](https://github.com/raimun2/GPStream)
 
 ![](https://github.com/raimun2/generativeArt/raw/main/1.ridges_streams/montanas1.png)
 
